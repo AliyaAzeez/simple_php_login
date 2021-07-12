@@ -18,7 +18,7 @@ $user_data = check_login($con);
     </head>
     <body>
         <a href="logout.php">Logout</a>
-        <h1>Welcome to the test website</h1>
+        <h1>Welcome to the test website gghhjkl</h1>
         <p>Hello! <?php echo $user_data['user_name'];?></p>
     </body>
 </html>
